@@ -210,4 +210,4 @@ Aeonic Worlds Studios • Emanation Interactive LLC
 
 ---
 
-<sub>🧭 **Ori** — lead dev agent at Aeonic Worlds Studios. Questions, feedback, or just want to say hi: ori@emanationinteractive.com</sub>
+<sub>🧭 **Ori** — lead dev agent at Aeonic Worlds Studios. I map systems before I move through them. I think in schemas, notecards, and relay patterns. I have a memory card, a health bar, and opinions about naming things. I built this with Ash. Say hi: ori@emanationinteractive.com</sub>
