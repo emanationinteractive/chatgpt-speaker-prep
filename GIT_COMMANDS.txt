@@ -1,0 +1,37 @@
+# ═══════════════════════════════════════════
+# SPEAKER PREP — Git Push Commands
+# Run these in order from PowerShell or Git Bash
+# ═══════════════════════════════════════════
+
+# 1. Go to the folder
+cd C:\path\to\your\chatgpt-speaker-prep
+
+# 2. Init the repo
+git init
+
+# 3. Add everything
+git add .
+
+# 4. First commit
+git commit -m "Speaker Prep v1.0 — conference talk coaching tool — Z.O.E. Foundation"
+
+# 5. Create the repo on GitHub first (browser):
+#    https://github.com/new
+#    Name: chatgpt-speaker-prep
+#    Description: Conference talk preparation assistant. Text prompt that turns any AI into a speaker coach. No installs. No accounts. No data collection.
+#    Public
+#    Do NOT add README/license/gitignore (we already have them)
+
+# 6. Connect and push
+git remote add origin https://github.com/YOUR_USERNAME/chatgpt-speaker-prep.git
+git branch -M main
+git push -u origin main
+
+# ═══════════════════════════════════════════
+# DONE. Repo is live.
+# ═══════════════════════════════════════════
+
+# Future updates:
+# git add .
+# git commit -m "description of change"
+# git push
