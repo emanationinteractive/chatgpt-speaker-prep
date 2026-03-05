@@ -212,6 +212,7 @@ No vendor lock-in. Switch AI mid-session if you want. Your notecards are yours.
 | 👥 [Audience personas](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/14) — switch AI lens: exec, engineer, skeptic, hostile | planned |
 | 📄 [Export](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/15) — one-page printable talk sheet | planned |
 | 🔁 [Replay](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/16) — hear your talk assembled from your own words | planned |
+| 📜 [Session log](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/17) — AI journals its own session, exportable receipt | planned |
 
 **v2.0 — Architecture:**
 
