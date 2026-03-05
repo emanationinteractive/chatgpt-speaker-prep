@@ -1,0 +1,24 @@
+# User's personal data (the template placeholder files ARE tracked)
+my_speaker_data/my_notecards/*.md
+my_speaker_data/my_notecards/*.txt
+!my_speaker_data/my_notecards/PUT_NOTECARDS_HERE.txt
+my_speaker_data/my_outline/*.md
+my_speaker_data/my_outline/*.txt
+!my_speaker_data/my_outline/PUT_OUTLINES_HERE.txt
+my_speaker_data/my_comfort_cards/*.md
+my_speaker_data/my_comfort_cards/*.txt
+!my_speaker_data/my_comfort_cards/PUT_COMFORT_CARDS_HERE.txt
+my_speaker_data/my_cue_sheet/*.md
+my_speaker_data/my_cue_sheet/*.txt
+!my_speaker_data/my_cue_sheet/PUT_CUE_SHEETS_HERE.txt
+my_speaker_data/raw_dumps/*.md
+my_speaker_data/raw_dumps/*.txt
+!my_speaker_data/raw_dumps/PUT_RAW_NOTES_HERE.txt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Zips (built artifacts, not source)
+*.zip
