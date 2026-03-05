@@ -1,0 +1,11 @@
+Save your notecards here.
+
+When the AI says "saved notecard 007: your_topic" —
+copy that content into a text file in this folder.
+
+Name them however you want:
+  001_opening_hook.txt
+  002_req_gathering_stats.txt
+  003_bridge_story.txt
+
+This is YOUR backup. AI chats expire. This folder doesn't.

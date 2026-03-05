@@ -1,0 +1,10 @@
+Save your cue sheets here.
+
+When you run "sheet" before a live talk, copy the output here.
+Print it or keep it on your phone.
+
+Example cue sheet:
+  🛡️ anchor  — opening hook
+  📊 data    — req gathering stats
+  💚 steady  — confidence anchor
+  Win+. → emoji → enter

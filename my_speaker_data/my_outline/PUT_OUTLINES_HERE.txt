@@ -1,0 +1,9 @@
+Save your talk outlines here.
+
+When you run "outline" and like what you see,
+copy-paste it into a file here.
+
+Save versions as you go:
+  outline_v1.txt
+  outline_v2.txt
+  outline_final.txt

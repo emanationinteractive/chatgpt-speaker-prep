@@ -1,0 +1,7 @@
+Save your raw dumps here BEFORE pasting into "parse".
+
+Meeting notes, Discord convos, email threads, brain dumps —
+anything messy that you want the AI to sort through.
+
+Save the original here first. Then paste into the AI.
+If the session dies, you still have the source material.
