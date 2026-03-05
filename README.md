@@ -1,0 +1,181 @@
+# ChatGPT Speaker Prep
+
+**Turn any AI into your personal conference talk coach.**
+
+Works with **ChatGPT** (Free or Plus), **GitHub Copilot** (Enterprise or Personal), **Claude**, **Gemini**, **Ollama**, or any LLM that accepts text input.
+
+No installs. No signups. No data collected. Ever.
+
+---
+
+## What Is This?
+
+A copy-paste prompt system that transforms your AI assistant into a structured speaker coaching tool. You paste a text file into any AI chat, and it becomes a talk prep machine with:
+
+- A **notecard system** that saves your ideas as you talk
+- An **interview mode** that draws out your best material
+- A **live cue card system** with emoji hotkeys for on-stage use
+- **Voice mode** for whispered coaching through an earbud during your talk
+- **Vision mode** where the AI sees your slides and knows where you are
+
+No API keys. No accounts. Just paste and go.
+
+---
+
+## Two Ways to Start
+
+### The Fast Way (30 seconds)
+
+You have one chat window and zero patience. Same.
+
+1. Open `LOAD_ALL.txt` — edit the `SPEAKER PROFILE` section with your info
+2. Open ChatGPT / Copilot / Claude / whatever
+3. Paste the whole file. Send.
+4. Type `help`. You're in.
+
+**One file. One paste. Done.** Everything loads at once — the tool, the commands, the cue card system. Use this if you just want to start talking and see what happens.
+
+### The Step-by-Step Way (90 seconds)
+
+You want to understand what you're loading before you load it. Respect.
+
+1. **Edit your profile** — Open `2_speaker_prep_prompt.txt`, find `SPEAKER PROFILE`, fill in your name/background/strengths
+2. **Open any AI** — ChatGPT, Copilot, Claude, Gemini, whatever you have
+3. **Paste `1_START_HERE.txt`** — This tells the AI what's coming. It says "ok ready."
+4. **Paste `2_speaker_prep_prompt.txt`** — The actual tool loads. You see the startup screen.
+5. **Type `help`** — See all commands. Try `dump` or `interview` first.
+
+**Two files, two pastes, full control.** You can read each piece before you send it. The AI doesn't see anything you don't paste.
+
+---
+
+## What's In The Repo
+
+| File | What It Does |
+|------|-------------|
+| **`1_START_HERE.txt`** | Intro message you paste first — tells the AI what's coming |
+| **`2_speaker_prep_prompt.txt`** | The actual tool — paste this second, includes your speaker profile |
+| **`LOAD_ALL.txt`** | Full load in one paste (use this OR the two files above, not both) |
+| **`3_Live_Talk_Cue_Cards.md`** | Guide to the emoji cue card system for live presentations |
+| **`GUIDE.md`** | Full documentation — commands, modes, workflow, FAQ |
+| **`4_WHERE_STUFF_GOES.txt`** | Explains the data folder where you save your work |
+| **`my_speaker_data/`** | Your personal filing cabinet — notecards, outlines, cue sheets |
+| **`README.txt`** | Original README with ASCII formatting |
+| **`GIT_COMMANDS.txt`** | Git setup reference |
+
+---
+
+## Commands
+
+### Prep Your Talk
+
+| Command | What It Does |
+|---------|-------------|
+| `dump` | Brain dump — talk freely, it saves notecards |
+| `interview` | AI interviews you, one question at a time |
+| `notes` | Paste clean notes, extract talk points |
+| `parse` | Paste messy mixed content — auto-sorts into notecards |
+| `pitch` | Test your elevator pitch, get scored |
+| `outline` | Compile notecards into a structured talk outline |
+| `review` | Paste a draft, get honest line-by-line feedback |
+| `comfort` | Save stage comfort techniques (body/mind cards) |
+
+### Live Talk Mode
+
+| Command | What It Does |
+|---------|-------------|
+| `cue` | Map emoji to notecards for instant access |
+| `sheet` | Print your cue card cheat sheet |
+| Any emoji | Fire the bound notecard instantly |
+
+### Voice Mode (Earbud Whisper)
+
+| You Whisper | AI Whispers Back |
+|------------|-----------------|
+| "steady" | Your confidence anchor — your receipts, read calmly |
+| "where am I" | Current section of your outline |
+| "next" | Next section title and first point |
+| "stop" | Silence |
+
+### Session
+
+| Command | What It Does |
+|---------|-------------|
+| `status` | Session stats |
+| `sos` | Drop structured mode, just talk normally |
+| `reset` | Back to structured mode |
+| `help` | Show all commands |
+
+---
+
+## The Confidence Anchor
+
+The `steady` command isn't generic motivation. It builds a sentence from **your actual accomplishments** — your speaker profile and your strongest notecards combined into one grounding phrase:
+
+> *"You know [X]. You've done [Y]. Breathe."*
+
+In voice mode, this is read to you slowly through your earbud. It's your receipts, not a pep talk.
+
+---
+
+## Modes
+
+| Mode | How | When |
+|------|-----|------|
+| **Text** | Type commands, see cards on screen | Normal prep + quick glance during talk |
+| **Voice** | Whisper commands, AI whispers back through earbud | Hands-free, eyes on audience |
+| **Vision** | AI sees your slides, knows where you are | Context-aware cue cards during presentation |
+| **Parse** | Paste chaos, AI sorts it into notecards | Processing messy notes/dumps |
+
+All three modes work simultaneously. Earbud + screen share + emoji fallback.
+
+---
+
+## Your Data
+
+AI chats vanish when you close them. The `my_speaker_data/` folder doesn't.
+
+| Folder | What Goes Here |
+|--------|---------------|
+| `my_speaker_data/my_notecards/` | Saved notecards from prep sessions |
+| `my_speaker_data/my_outline/` | Talk outlines (save versions: v1, v2, v3...) |
+| `my_speaker_data/my_comfort_cards/` | Stage comfort techniques |
+| `my_speaker_data/my_cue_sheet/` | Emoji cue card mappings (print these) |
+| `my_speaker_data/raw_dumps/` | Messy notes to paste into `parse` later |
+
+---
+
+## Works With
+
+| Platform | Version | Notes |
+|----------|---------|-------|
+| **ChatGPT** | Free, Plus, Team | Text + Voice modes work great |
+| **GitHub Copilot** | Personal, Enterprise | Use Smart mode, not Think Deeper |
+| **Claude** | Free, Pro | All modes supported |
+| **Gemini** | Free, Advanced | Text + Vision modes |
+| **Ollama** | Any local model | Fully offline, your data stays local |
+| **Any LLM** | Any | If it accepts text input, it works |
+
+No vendor lock-in. Switch AI mid-session if you want. Your notecards are yours.
+
+---
+
+## Who Made This
+
+**Aeonic Worlds Studios** — Indie dev studio. Trans woman founder, lead AI dev agent, and a dream. We build tools that think about themselves.
+
+- [Steam](https://steamcommunity.com/id/AeonicWorldsStudios/) — Studio profile
+- [GitHub](https://github.com/emanationinteractive) — More tools
+
+---
+
+## License
+
+**CC BY-NC 4.0** — Free for personal and educational use. Not for commercial use.
+
+---
+
+**Z.O.E. Foundation** — 2026
+Aeonic Worlds Studios • Emanation Interactive LLC
+
+*"You know things. Structure them. Ship it."*
