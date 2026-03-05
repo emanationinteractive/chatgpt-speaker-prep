@@ -84,9 +84,35 @@ You want to understand what you're loading before you load it. Respect.
 
 | Command | What It Does |
 |---------|-------------|
-| `cue` | Map emoji to notecards for instant access |
-| `sheet` | Print your cue card cheat sheet |
-| Any emoji | Fire the bound notecard instantly |
+| `bind 🛡️ 1` | Map an emoji to notecard #1 |
+| `bind 💚 steady` | Map an emoji to your confidence anchor |
+| `bind 💧 comfort` | Map an emoji to a comfort card |
+| `cues` | Show all current bindings |
+| `sheet` | Print cheat sheet (save or print this) |
+
+Type any bound emoji during your talk — the AI instantly shows that notecard. On Windows, `Win+.` opens the emoji picker.
+
+### Sample Cue Card Layout
+
+This is what a fully mapped talk looks like. You build yours as you prep.
+
+| Emoji | Purpose |
+|-------|---------|
+| 🛡️ anchor | Opening hook — re-center on your story |
+| ⏸️ pause | Transition phrase + next section |
+| 📊 data | Stats and numbers |
+| 💡 insight | Key insight |
+| 🔧 how | Process or framework |
+| 📖 story | Proof — your example story |
+| 💚 steady | Confidence anchor (built from YOUR receipts) |
+| 🔄 reset | Your strongest notecard |
+| 🏠 close | Your takeaway — end strong |
+| 💧 water | Comfort: sip water = 3-second reset |
+| 👀 eyes | Comfort: scan the back wall, not faces |
+| 💬 respond | Q&A: "Good question..." + matching notecard |
+| 🎯 scope | Q&A: "That's outside today's scope..." |
+
+> **On stage:** You're mid-talk, mind goes blank. You type 💚. The AI shows: *"You know distributed systems. You've shipped three production migrations. Breathe."* — That's your receipts, not a pep talk. Three seconds. Back on track.
 
 ### Voice Mode (Earbud Whisper)
 
@@ -122,10 +148,10 @@ In voice mode, this is read to you slowly through your earbud. It's your receipt
 
 | Mode | How | When |
 |------|-----|------|
-| **Text** | Type commands, see cards on screen | Normal prep + quick glance during talk |
-| **Voice** | Whisper commands, AI whispers back through earbud | Hands-free, eyes on audience |
-| **Vision** | AI sees your slides, knows where you are | Context-aware cue cards during presentation |
-| **Parse** | Paste chaos, AI sorts it into notecards | Processing messy notes/dumps |
+| ⌨️ **Text** | Type commands, see cards on screen | Normal prep + quick glance during talk |
+| 🎧 **Voice** | Whisper commands, AI whispers back through earbud | Hands-free, eyes on audience |
+| 👁️ **Vision** | AI sees your slides, knows where you are | Context-aware cue cards during presentation |
+| 🔀 **Parse** | Paste chaos, AI sorts it into notecards | Processing messy notes/dumps |
 
 All three modes work simultaneously. Earbud + screen share + emoji fallback.
 
@@ -137,11 +163,11 @@ AI chats vanish when you close them. The `my_speaker_data/` folder doesn't.
 
 | Folder | What Goes Here |
 |--------|---------------|
-| `my_speaker_data/my_notecards/` | Saved notecards from prep sessions |
-| `my_speaker_data/my_outline/` | Talk outlines (save versions: v1, v2, v3...) |
-| `my_speaker_data/my_comfort_cards/` | Stage comfort techniques |
-| `my_speaker_data/my_cue_sheet/` | Emoji cue card mappings (print these) |
-| `my_speaker_data/raw_dumps/` | Messy notes to paste into `parse` later |
+| 📇 `my_notecards/` | Saved notecards from prep sessions |
+| 📋 `my_outline/` | Talk outlines (save versions: v1, v2, v3...) |
+| 🧘 `my_comfort_cards/` | Stage comfort techniques |
+| 🎯 `my_cue_sheet/` | Emoji cue card mappings (print these) |
+| 📦 `raw_dumps/` | Messy notes to paste into `parse` later |
 
 ---
 
