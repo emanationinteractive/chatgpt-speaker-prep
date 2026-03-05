@@ -71,14 +71,14 @@ You want to understand what you're loading before you load it. Respect.
 
 | Command | What It Does |
 |---------|-------------|
-| `dump` | Brain dump — talk freely, it saves notecards |
-| `interview` | AI interviews you, one question at a time |
-| `notes` | Paste clean notes, extract talk points |
-| `parse` | Paste messy mixed content — auto-sorts into notecards |
-| `pitch` | Test your elevator pitch, get scored |
-| `outline` | Compile notecards into a structured talk outline |
-| `review` | Paste a draft, get honest line-by-line feedback |
-| `comfort` | Save stage comfort techniques (body/mind cards) |
+| 🧠 `dump` | Brain dump — talk freely, it saves notecards |
+| 🎤 `interview` | AI interviews you, one question at a time |
+| 📝 `notes` | Paste clean notes, extract talk points |
+| 🔀 `parse` | Paste messy mixed content — auto-sorts into notecards |
+| 🎯 `pitch` | Test your elevator pitch, get scored |
+| 📐 `outline` | Compile notecards into a structured talk outline |
+| 🔍 `review` | Paste a draft, get honest line-by-line feedback |
+| 🧘 `comfort` | Save stage comfort techniques (body/mind cards) |
 
 ### Live Talk Mode
 
