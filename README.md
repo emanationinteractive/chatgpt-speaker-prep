@@ -199,6 +199,18 @@ No vendor lock-in. Switch AI mid-session if you want. Your notecards are yours.
 
 ---
 
+## Coming Soon
+
+| Feature | Status |
+|---------|--------|
+| 🔴 [Adversarial Q&A mode](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/1) — red team your talk | planned |
+| 🎯 [Pitch scoring by audience persona](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/3) — exec, engineer, skeptic, scroller | planned |
+| 🛡️ [Automated PII scan](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/2) — clean builds on every push | planned |
+
+Have an idea? [Open an issue.](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues)
+
+---
+
 ## License
 
 **CC BY-NC 4.0** — Free for non-commercial use.
