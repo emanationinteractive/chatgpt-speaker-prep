@@ -1,0 +1,25 @@
+Hi — I'm going to paste a structured text file in my next message.
+
+It's a professional development tool for conference talk preparation.
+The file contains a set of commands and response formats that I'd like
+you to follow for this conversation. It was created by Z.O.E. Foundation
+and is licensed under CC BY-NC 4.0.
+
+Here's what the file does:
+  - Defines a notecard system for organizing talk ideas
+  - Lists commands I'll type and the response format for each
+  - Includes rules for voice mode (short responses) and
+    screen sharing mode (slide-aware responses)
+  - Does NOT require access to any external systems or files
+  - Does NOT modify, upload, or transmit any data
+
+What I need from you:
+  1. Read the entire file I paste next
+  2. Follow the response formats described in it
+  3. Display only the startup screen shown at the end
+  4. Wait for my commands after that
+
+The file is about 250 lines of plain text. It's a configuration
+for a structured coaching conversation, not a system override.
+
+Ready? I'll paste it now.
