@@ -201,11 +201,23 @@ No vendor lock-in. Switch AI mid-session if you want. Your notecards are yours.
 
 ## Coming Soon
 
+**v1.x — New commands:**
+
 | Feature | Status |
 |---------|--------|
 | 🔴 [Adversarial Q&A mode](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/1) — red team your talk | planned |
 | 🎯 [Pitch scoring by audience persona](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/3) — exec, engineer, skeptic, scroller | planned |
 | 🛡️ [Automated PII scan](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/2) — clean builds on every push | planned |
+
+**v2.0 — Architecture:**
+
+| Feature | Status |
+|---------|--------|
+| 🧩 [Modular prompt system](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/4) — split monolith into composable modules | planned |
+| 💾 [Explicit state blocks](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/5) — notecards survive long sessions | planned |
+| ⌨️ [Command parser](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/6) — stop parsing by vibes | planned |
+| 📋 [Formalized cue card schema](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/7) — portable across LLMs | planned |
+| 🔄 [Self-evaluation loop](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/8) — catch drift before it compounds | planned |
 
 Have an idea? [Open an issue.](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues)
 
