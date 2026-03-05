@@ -4,7 +4,9 @@
 
 Works with **ChatGPT** (Free or Plus), **GitHub Copilot** (Enterprise or Personal), **Claude**, **Gemini**, **Ollama**, or any LLM that accepts text input.
 
-No installs. No signups. No data collected. Ever. Type 🚨 `sos` at any time to drop back to normal AI.
+No installs. No signups. No data collected. Ever.
+
+Type 🚨 `sos` at any time to drop back to normal AI.
 
 ---
 
