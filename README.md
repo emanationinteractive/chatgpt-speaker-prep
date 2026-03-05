@@ -218,6 +218,10 @@ No vendor lock-in. Switch AI mid-session if you want. Your notecards are yours.
 | ⌨️ [Command parser](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/6) — stop parsing by vibes | planned |
 | 📋 [Formalized cue card schema](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/7) — portable across LLMs | planned |
 | 🔄 [Self-evaluation loop](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/8) — catch drift before it compounds | planned |
+| 📊 [Session manifest block](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/9) — persistent state tracking across long sessions | planned |
+| 🔍 [Debug command](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/10) — see how the AI interpreted your last command | planned |
+| 🔗 [Artifact graph](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/11) — versioned notecard pipeline with parent references | planned |
+| 🧘 [Portable comfort module](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/12) — reusable for interviews, pitches, negotiations | planned |
 
 Have an idea? [Open an issue.](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues)
 
