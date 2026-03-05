@@ -197,7 +197,7 @@ No vendor lock-in. Switch AI mid-session if you want. Your notecards are yours.
 
 ## License
 
-**CC BY-NC 4.0** — Free for personal and educational use. Not for commercial use.
+**CC BY-NC 4.0** — Free for non-commercial use.
 
 ---
 
