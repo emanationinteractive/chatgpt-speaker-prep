@@ -208,6 +208,10 @@ No vendor lock-in. Switch AI mid-session if you want. Your notecards are yours.
 | 🔴 [Adversarial Q&A mode](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/1) — red team your talk | planned |
 | 🎯 [Pitch scoring by audience persona](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/3) — exec, engineer, skeptic, scroller | planned |
 | 🛡️ [Automated PII scan](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/2) — clean builds on every push | planned |
+| ⏱️ [Timer](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/13) — rehearse to a time limit with pacing alerts | planned |
+| 👥 [Audience personas](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/14) — switch AI lens: exec, engineer, skeptic, hostile | planned |
+| 📄 [Export](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/15) — one-page printable talk sheet | planned |
+| 🔁 [Replay](https://github.com/emanationinteractive/chatgpt-speaker-prep/issues/16) — hear your talk assembled from your own words | planned |
 
 **v2.0 — Architecture:**
 
