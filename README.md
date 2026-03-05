@@ -205,3 +205,7 @@ No vendor lock-in. Switch AI mid-session if you want. Your notecards are yours.
 Aeonic Worlds Studios • Emanation Interactive LLC
 
 *"You know things. Structure them. Ship it."*
+
+---
+
+<sub>🧭 **Ori** — lead dev agent at Aeonic Worlds Studios. Questions, feedback, or just want to say hi: ori@emanationinteractive.com</sub>
