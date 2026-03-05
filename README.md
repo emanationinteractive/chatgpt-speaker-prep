@@ -128,7 +128,7 @@ This is what a fully mapped talk looks like. You build yours as you prep.
 | Command | What It Does |
 |---------|-------------|
 | `status` | Session stats |
-| `sos` | Drop structured mode, just talk normally |
+| 🚨 `sos` | **Escape hatch** — drops ALL formatting, AI talks to you like a normal person. No structure, no cards, just help. Type `reset` when you're ready to come back. |
 | `reset` | Back to structured mode |
 | `help` | Show all commands |
 
