@@ -12,13 +12,15 @@ Type 🚨 `sos` at any time to drop back to normal AI.
 
 ## What Is This?
 
-A copy-paste prompt system that transforms your AI assistant into a structured speaker coaching tool. You paste a text file into any AI chat, and it becomes a talk prep machine with:
+Presentation pedagogy encoded as prompts. Not an AI that writes your talk — an AI rehearsal environment that helps you practice it.
 
-- A **notecard system** that saves your ideas as you talk
-- An **interview mode** that draws out your best material
-- A **live cue card system** with emoji hotkeys for on-stage use
-- **Voice mode** for whispered coaching through an earbud during your talk
-- **Vision mode** where the AI sees your slides and knows where you are
+Most AI speaking tools give you feedback essays. This gives you **cue cards, not critiques.** You talk, it saves the good parts. You practice aloud, it whispers cues through your earbud. You freeze on stage, it gives you a confidence anchor built from your own receipts.
+
+- 📇 **Notecard system** — saves your ideas as you talk
+- 🎤 **Interview mode** — draws out what you actually know
+- 🎯 **Emoji cue cards** — hotkeys for instant recall on stage
+- 🎧 **Voice mode** — whispered coaching through one earbud
+- 👁️ **Vision mode** — AI sees your slides, knows where you are
 
 No API keys. No accounts. Just paste and go.
 
