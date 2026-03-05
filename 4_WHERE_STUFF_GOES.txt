@@ -1,0 +1,74 @@
+═══════════════════════════════════════════════
+  YOUR DATA — Speaker Prep v1.0
+  This folder is YOURS. Put your stuff here.
+═══════════════════════════════════════════════
+
+This is your personal filing cabinet. The tool
+(Speaker Prep) lives in the other zip. This zip
+is where YOUR content goes as you build your talk.
+
+Nothing here gets sent anywhere. It's just folders
+on your machine for you to stay organized.
+
+═══════════════════════════════════════════════
+
+FOLDER MAP:
+
+  my_speaker_data/my_notecards/
+    Save notecards here as you go. When the AI
+    shows "saved notecard 007: your_slug" — copy
+    that text into a file here. Name it whatever.
+    This is your backup. The AI chat will lose them
+    when the session ends. This folder won't.
+
+  my_speaker_data/my_outline/
+    When you run "outline" and like what you see,
+    copy-paste it into a file here. Save versions.
+    outline_v1.txt, outline_v2.txt, etc.
+
+  my_speaker_data/my_comfort_cards/
+    Your stage comfort techniques. Body stuff.
+    "Look at the back wall." "Sip water = reset."
+    Keep these separate because they're about YOU,
+    not about your talk content.
+
+  my_speaker_data/my_cue_sheet/
+    Your emoji-to-notecard mappings for live talks.
+    Run "sheet" in the tool, copy the output here.
+    Print it. Put it on your phone. Tape it to
+    your laptop lid. Whatever works.
+
+  my_speaker_data/raw_dumps/
+    Brain dumps, meeting notes, Discord convos,
+    email threads — anything you want to paste
+    into the "parse" command later. Save the raw
+    text here BEFORE you paste it, so you have
+    a copy if the AI session dies.
+
+═══════════════════════════════════════════════
+
+WORKFLOW:
+
+  1. Prep session → notecards come out → save to my_speaker_data/my_notecards/
+  2. Good outline? → save to my_speaker_data/my_outline/
+  3. Stage tips? → save to my_speaker_data/my_comfort_cards/
+  4. Ready for live talk? → save cue sheet to my_speaker_data/my_cue_sheet/
+  5. Got raw messy notes? → save to my_speaker_data/raw_dumps/ then paste into "parse"
+
+═══════════════════════════════════════════════
+
+STARTING A NEW SESSION:
+
+  When you open a new chat with your AI, you need to reload.
+  Two options:
+
+  QUICK: Paste 2_speaker_prep_prompt.txt from the tool zip.
+         Then paste your saved notecards back in with "notes".
+
+  FULL:  Paste LOAD_ALL.txt from the tool zip (loads everything
+         in one shot). Then paste your saved notecards back in.
+
+  Your data is always here. The AI forgets between sessions.
+  This folder remembers.
+
+═══════════════════════════════════════════════
