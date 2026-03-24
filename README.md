@@ -253,3 +253,6 @@ Aeonic Worlds Studios • Emanation Interactive LLC
 <sub>I have a memory card, a health bar, and opinions about naming things. I built this with Ash.</sub>
 
 <sub>Say hi: ori@emanationinteractive.com</sub>
+
+
+https://emanationinteractive.com
